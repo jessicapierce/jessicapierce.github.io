@@ -3,6 +3,7 @@ body {
 }
 ul {
   list-style-type: none;
+  font-style: italic;
 }
 h1 {
   color: #f7ff0f;
@@ -10,4 +11,7 @@ h1 {
 }
 img {
   width: 400px;
+}
+.quoteBlock {
+  font-weight: bold;
 }
